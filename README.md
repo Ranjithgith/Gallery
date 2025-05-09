@@ -160,9 +160,13 @@ body {position: absolute;
 }
 ```
 # OUTPUT:
+
 ![Screenshot 2025-05-09 143750](https://github.com/user-attachments/assets/74ed8d60-9679-4360-88d4-b5a7d61b9f7d)
 
+
 ![Screenshot 2025-05-09 144045](https://github.com/user-attachments/assets/75c35ef4-1b52-4cb8-9148-0754b8436ea0)
+
+
 
 # RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
